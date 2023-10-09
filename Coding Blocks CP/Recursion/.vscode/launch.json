@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/VSCode/CODING/CP/Code Forces",
-      "program": "d:/VSCode/CODING/CP/Code Forces/build/Debug/outDebug",
+      "cwd": "d:/VSCode/CODING/CP/Coding Blocks CP/Recursion",
+      "program": "d:/VSCode/CODING/CP/Coding Blocks CP/Recursion/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
