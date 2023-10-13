@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/VSCode/CODING/code chef practice",
-      "program": "d:/VSCode/CODING/code chef practice/build/Debug/outDebug",
+      "cwd": "d:/VSCode/CODING/CP/Code Chef",
+      "program": "d:/VSCode/CODING/CP/Code Chef/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
