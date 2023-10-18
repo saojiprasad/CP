@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/VSCode/new/.vscode/CSES CP",
-      "program": "d:/VSCode/new/.vscode/CSES CP/build/Debug/outDebug",
+      "cwd": "d:/VSCode/CODING/CP/CSES CP",
+      "program": "d:/VSCode/CODING/CP/CSES CP/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
