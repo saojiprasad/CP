@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/VSCode/CODING/Code Forces/NUmber Theory",
-      "program": "d:/VSCode/CODING/Code Forces/NUmber Theory/build/Debug/outDebug",
+      "cwd": "d:/VSCode/CODING/CP/Code Forces/Number Theory",
+      "program": "d:/VSCode/CODING/CP/Code Forces/Number Theory/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
