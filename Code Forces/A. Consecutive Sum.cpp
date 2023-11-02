@@ -17,7 +17,7 @@ void solve(){
             if(a[i]<a[j+k]){
                 swap(a[i],a[j+k]);
             }
-            }cd 
+            }
         }
         ll ans=0;
         for(int i=0;i<k;i++){
