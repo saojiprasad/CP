@@ -3,7 +3,6 @@
 using namespace std;
     
 void solve(){
-    
         ll hc,ac,hm,am;
         cin>>hc>>ac>>hm>>am;
         ll k,w,a;
@@ -46,8 +45,6 @@ void solve(){
                 // cout<<"ALLO mi"<<endl;
                 break;
             }
-            // cout<<tempattack<<"    "<<temphealth<<endl;
-            // cout<<attcha<<"    "<<attmon<<endl;
         }
 
         if(flag||flag1==true){
@@ -55,9 +52,6 @@ void solve(){
         }else{
             cout<<"NO"<<endl;
         }
-
-    
-    
 }
     
 int main(){

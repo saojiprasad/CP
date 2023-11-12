@@ -1,0 +1,1 @@
+{"name":"Local: Name Reduction","url":"d:\\VSCode\\CODING\\CP\\Code Chef\\Name Reduction.cpp","tests":[{"id":1699709428590,"input":"1\nPrasad\n2\nPras ad\n","output":"0 0 0 0 "},{"id":1699709458800,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\VSCode\\CODING\\CP\\Code Chef\\Name Reduction.cpp","group":"local","local":true}

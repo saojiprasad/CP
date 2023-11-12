@@ -34,8 +34,8 @@ void solve(){
             arr[i]=pos;
             i++;
         }
-        for(auto i:arr){cout<<i<<" ";}
-    
+        for(auto i:arr){cout<<i<<" ";
+        }
 }
 
 int main(){

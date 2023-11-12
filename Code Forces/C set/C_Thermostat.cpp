@@ -1,16 +1,9 @@
 #include<bits/stdc++.h>
-#define ll long long int 
+#define ll long long int
 using namespace std;
-
-
     
 void solve(){
-        ll a[3];
-        for(int i=0;i<3;i++){
-            cin>>a[i];
-        }
-        sort(a,a+3);
-        cout<<a[1]<<endl;
+        
 }
     
 int main(){
