@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/VSCode/CODING/CP",
-      "program": "d:/VSCode/CODING/CP/build/Debug/outDebug",
+      "cwd": "d:/VSCode/CODING/CP/Code Forces/D set",
+      "program": "d:/VSCode/CODING/CP/Code Forces/D set/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
