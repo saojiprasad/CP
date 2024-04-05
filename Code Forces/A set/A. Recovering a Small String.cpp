@@ -23,8 +23,6 @@ void solve(){
             }
             if(flag2)break;
         }
-
-        
         cout<<s<<endl;
 }
     
